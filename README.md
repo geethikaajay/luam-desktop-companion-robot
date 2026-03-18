@@ -37,7 +37,7 @@ After that, I worked on making the eyes look better and added animation:
 
 Here’s a short video of the current result:
 
-[Watch video](oled_demo.mp4)
+[![Watch Demo](oled_final.jpeg)](oled_demo.mp4)
 
 ---
 
